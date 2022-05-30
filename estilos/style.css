@@ -14,3 +14,19 @@ main {
   padding: 10px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.lado {
+  float: right;
+  width: 20%;
+}
+
+img.voltar {
+  float: left;
+  width: 10%;
+}
